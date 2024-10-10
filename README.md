@@ -1,0 +1,1 @@
+Análise de cancelamentos de clientes, analisamos quais clientes estavem cancelando e o motivo dos cancelamentos, no final temos possiveis soluçoes para o problema, o Grafico não é mostrado para não ultrapassar o limite de tamanho do arquivo
